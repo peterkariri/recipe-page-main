@@ -1,0 +1,41 @@
+
+body{
+    margin: 0;
+    background-color:  hsl(30, 54%, 90%);
+    padding: 0;
+}
+main{
+width: 35%;
+margin:50px auto;
+background-color: white;
+padding: 20px;
+border-radius: 10px;
+
+}
+.container{
+    width: 80%;
+    padding: 40px;
+    gap: 50px;
+}
+.image{
+    width: 100%;
+}
+.image img{
+    width: 100%;
+    border-radius: 10px;
+}
+ p{
+ color:  hsl(30, 10%, 34%);
+}
+.third-division{
+    background-color: hsl(330, 100%, 98%);
+    padding: 15px;
+    border-radius: 10px;
+}
+.third-division h2{
+    color: hsl(332, 51%, 32%);
+    font-size: 18px;
+    font-weight: 900;
+}
+
+
